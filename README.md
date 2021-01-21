@@ -1,0 +1,2 @@
+# Computer-Vision-Face-Detection-Algorithm
+We will develop a computer vision algorithm to detect and identify individuals, using a database of known face images (specifically, students in the module). The dataset consists of 48 students with individual IDs and a group of students in the lecture, some of whom have not been assigned individual IDs and are ‘unknown’ to the model. The dataset consists of both individual students with ID’s, and a group of unidentified students; with their images in JPEG format and videos in mp4 format. 
